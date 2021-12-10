@@ -1,2 +1,2 @@
-# gyeongju-main
+# gyeongju
  
